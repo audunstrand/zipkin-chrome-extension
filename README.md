@@ -4,7 +4,7 @@ This is an extension to the Chrome browser that lets you trigger trace generatio
 
 ## Installing
 
-TODO: This extension will later be submitted to Chrome Web Store, where it will be available for free.
+[Install on chrome web store ](https://chrome.google.com/webstore/detail/zipkin-chrome-extension/jdpmaacocdhbmkppghmgnjmfikeeldfe)
 
 ## Usage
 
